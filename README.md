@@ -1,3 +1,3 @@
 ## MaybeAFlag is here...
 
-Do I have a flag for you?
+Do I have a flag for you? Click the folder to find out!
