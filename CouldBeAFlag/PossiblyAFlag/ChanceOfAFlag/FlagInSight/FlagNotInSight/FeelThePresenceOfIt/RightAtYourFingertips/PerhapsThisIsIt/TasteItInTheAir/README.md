@@ -1,4 +1,4 @@
-`Oh so close, oh so far.
+Oh so close, oh so far.
 
 You feel it in your grasp, 
 
@@ -17,6 +17,7 @@ faith
 you 
 
 _can_
+
 do 
 
-it. `
+it. 
