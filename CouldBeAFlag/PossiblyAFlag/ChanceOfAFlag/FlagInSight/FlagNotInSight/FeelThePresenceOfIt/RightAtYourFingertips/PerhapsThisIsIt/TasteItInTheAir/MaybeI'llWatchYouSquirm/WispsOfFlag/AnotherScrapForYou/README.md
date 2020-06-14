@@ -1,1 +1,1 @@
-ways_g
+ways_go
