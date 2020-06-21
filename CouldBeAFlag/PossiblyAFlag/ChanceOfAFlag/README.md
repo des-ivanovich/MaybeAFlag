@@ -1,1 +1,1 @@
-cccctf{you_think_i'd_make_it_this_easy?}
+you think i'd make it this easy?
